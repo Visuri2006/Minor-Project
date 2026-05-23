@@ -1,0 +1,106 @@
+Row_ID,Original_Key,Original_Value,Detected_Entity,Entity_Type,Model
+1,uid,03d1b3cb-e990-48b0-806f-cf007484521f,03d1b3cb,CARDINAL,spaCy NER
+2,os_version,10,10,CARDINAL,spaCy NER
+4,uid,03d1b3cb-e990-48b0-806f-cf007484521f,03d1b3cb,CARDINAL,spaCy NER
+4,os_version,29,29,CARDINAL,spaCy NER
+4,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+4,manufacturer,samsung,samsung,ORG,spaCy NER
+5,app_version,7.4.6,7.4.6,CARDINAL,spaCy NER
+5,timezone,Asia/Kolkata,Asia,LOC,spaCy NER
+5,timezone,Asia/Kolkata,Kolkata,GPE,spaCy NER
+6,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+7,os_version,10,10,CARDINAL,spaCy NER
+7,os_version,29,29,CARDINAL,spaCy NER
+7,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+7,manufacturer,samsung,samsung,ORG,spaCy NER
+7,screen_width,720,720,CARDINAL,spaCy NER
+7,screen_height,1396,1396,DATE,spaCy NER
+7,uid,03d1b3cb-e990-48b0-806f-cf007484521f,03d1b3cb,CARDINAL,spaCy NER
+8,phone,8977902459,8977902459,DATE,spaCy NER
+8,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+9,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+9,manufacturer,samsung,samsung,ORG,spaCy NER
+9,country,US,US,GPE,spaCy NER
+9,application_build,70406005,70406005,CARDINAL,spaCy NER
+9,app_version,7.4.6,7.4.6,CARDINAL,spaCy NER
+10,phone,8977902459,8977902459,DATE,spaCy NER
+10,otp,8675,8675,CARDINAL,spaCy NER
+10,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+11,phone,8977902459,8977902459,DATE,spaCy NER
+11,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+14,app_version,3.9.23,3.9.23,PRODUCT,spaCy NER
+14,os_version,10,10,CARDINAL,spaCy NER
+14,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+15,os_version,10,10,CARDINAL,spaCy NER
+15,manufacturer,samsung,samsung,ORG,spaCy NER
+15,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+15,screen_width,720,720,CARDINAL,spaCy NER
+15,screen_height,1396,1396,DATE,spaCy NER
+15,timezone,Asia/Kolkata,Asia,LOC,spaCy NER
+15,timezone,Asia/Kolkata,Kolkata,GPE,spaCy NER
+16,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+16,app_version,7.4.6,7.4.6,CARDINAL,spaCy NER
+16,city,bangalore,bangalore,GPE,spaCy NER
+16,brand,samsung,samsung,ORG,spaCy NER
+16,os_version,10,10,CARDINAL,spaCy NER
+16,os_version,29,29,CARDINAL,spaCy NER
+16,uid,03d1b3cb-e990-48b0-806f-cf007484521f,03d1b3cb,CARDINAL,spaCy NER
+16,manufacturer,samsung,samsung,ORG,spaCy NER
+17,longitude,77.4004446,77.4004446,CARDINAL,spaCy NER
+17,latitude,23.2166846,23.2166846,CARDINAL,spaCy NER
+18,latitude,23.2166852,23.2166852,CARDINAL,spaCy NER
+18,longitude,77.4004447,77.4004447,CARDINAL,spaCy NER
+19,longitude,77.4004447,77.4004447,CARDINAL,spaCy NER
+19,latitude,23.2166852,23.2166852,CARDINAL,spaCy NER
+20,longitude,77.40043243,77.40043243,CARDINAL,spaCy NER
+20,latitude,23.21667387,23.21667387,CARDINAL,spaCy NER
+21,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+21,manufacturer,samsung,samsung,ORG,spaCy NER
+21,country,US,US,GPE,spaCy NER
+21,application_build,70406005,70406005,CARDINAL,spaCy NER
+22,longitude,77.4004447,77.4004447,CARDINAL,spaCy NER
+22,latitude,23.2166852,23.2166852,CARDINAL,spaCy NER
+23,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+24,city,bhopal,bhopal,GPE,spaCy NER
+24,uid,03d1b3cb-e990-48b0-806f-cf007484521f,03d1b3cb,CARDINAL,spaCy NER
+24,os_version,29,29,CARDINAL,spaCy NER
+24,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+24,manufacturer,samsung,samsung,ORG,spaCy NER
+25,city,bangalore,bangalore,GPE,spaCy NER
+25,city,bhopal,bhopal,GPE,spaCy NER
+25,os_version,10,10,CARDINAL,spaCy NER
+25,latitude,23.2166852,23.2166852,CARDINAL,spaCy NER
+25,longitude,77.4004447,77.4004447,CARDINAL,spaCy NER
+25,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+25,brand,samsung,samsung,ORG,spaCy NER
+26,device_model,SM-J610FN,SM-J610FN,ORG,spaCy NER
+26,brand,samsung,samsung,ORG,spaCy NER
+26,screen_height,1396,1396,DATE,spaCy NER
+26,screen_width,720,720,CARDINAL,spaCy NER
+26,app_version,7.4.6,7.4.6,CARDINAL,spaCy NER
+27,longitude,77.4004447,77.4004447,CARDINAL,spaCy NER
+27,longitude,77.439222,77.439222,CARDINAL,spaCy NER
+27,latitude,23.2166852,23.2166852,CARDINAL,spaCy NER
+27,latitude,23.22186,23.22186,CARDINAL,spaCy NER
+28,city,bangalore,bangalore,GPE,spaCy NER
+28,latitude,23.2166846,23.2166846,CARDINAL,spaCy NER
+28,longitude,77.4004446,77.4004446,CARDINAL,spaCy NER
+29,city,bhopal,bhopal,GPE,spaCy NER
+30,city,bangalore,bangalore,GPE,spaCy NER
+30,city,bhopal,bhopal,GPE,spaCy NER
+31,city,bangalore,bangalore,GPE,spaCy NER
+31,city,bhopal,bhopal,GPE,spaCy NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",4/31,CARDINAL,spaCy NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",MANIT,PERSON,spaCy NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORG,spaCy NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,GPE,spaCy NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya,GPE,spaCy NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,GPE,spaCy NER
+32,city,bangalore,bangalore,GPE,spaCy NER
+32,os_version,10,10,CARDINAL,spaCy NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",4/31,CARDINAL,spaCy NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",MANIT,PERSON,spaCy NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORG,spaCy NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,GPE,spaCy NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya,GPE,spaCy NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,GPE,spaCy NER

@@ -1,0 +1,61 @@
+Row_ID,Original_Key,Original_Value,Detected_Entity,Entity_Type,Confidence,Model
+4,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+4,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+5,timezone,Asia/Kolkata,Asia,LOCATION,0.85,Microsoft Presidio
+5,timezone,Asia/Kolkata,Kolkata,LOCATION,0.85,Microsoft Presidio
+6,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+7,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+7,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+7,screen_height,1396,1396,DATE_TIME,0.85,Microsoft Presidio
+8,phone,8977902459,8977902459,DATE_TIME,0.85,Microsoft Presidio
+8,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+9,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+9,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+9,country,US,US,LOCATION,0.85,Microsoft Presidio
+10,phone,8977902459,8977902459,DATE_TIME,0.85,Microsoft Presidio
+10,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+11,email,mitmnewproject@gmail.com,mitmnewproject@gmail.com,EMAIL_ADDRESS,1,Microsoft Presidio
+11,phone,8977902459,8977902459,DATE_TIME,0.85,Microsoft Presidio
+11,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+14,app_version,3.9.23,3.9.23,DATE_TIME,0.6,Microsoft Presidio
+14,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+15,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+15,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+15,screen_height,1396,1396,DATE_TIME,0.85,Microsoft Presidio
+15,timezone,Asia/Kolkata,Asia,LOCATION,0.85,Microsoft Presidio
+15,timezone,Asia/Kolkata,Kolkata,LOCATION,0.85,Microsoft Presidio
+16,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+16,city,bangalore,bangalore,LOCATION,0.85,Microsoft Presidio
+16,brand,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+16,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+21,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+21,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+21,country,US,US,LOCATION,0.85,Microsoft Presidio
+23,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+24,city,bhopal,bhopal,LOCATION,0.85,Microsoft Presidio
+24,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+24,manufacturer,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+25,city,bangalore,bangalore,LOCATION,0.85,Microsoft Presidio
+25,city,bhopal,bhopal,LOCATION,0.85,Microsoft Presidio
+25,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+25,brand,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+26,device_model,SM-J610FN,SM-J610FN,ORGANIZATION,0.85,Microsoft Presidio
+26,brand,samsung,samsung,ORGANIZATION,0.85,Microsoft Presidio
+26,screen_height,1396,1396,DATE_TIME,0.85,Microsoft Presidio
+28,city,bangalore,bangalore,LOCATION,0.85,Microsoft Presidio
+29,city,bhopal,bhopal,LOCATION,0.85,Microsoft Presidio
+30,city,bangalore,bangalore,LOCATION,0.85,Microsoft Presidio
+30,city,bhopal,bhopal,LOCATION,0.85,Microsoft Presidio
+31,city,bangalore,bangalore,LOCATION,0.85,Microsoft Presidio
+31,city,bhopal,bhopal,LOCATION,0.85,Microsoft Presidio
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",MANIT,PERSON,0.85,Microsoft Presidio
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORGANIZATION,0.85,Microsoft Presidio
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,LOCATION,0.85,Microsoft Presidio
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya,LOCATION,0.85,Microsoft Presidio
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,LOCATION,0.85,Microsoft Presidio
+32,city,bangalore,bangalore,LOCATION,0.85,Microsoft Presidio
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",MANIT,PERSON,0.85,Microsoft Presidio
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORGANIZATION,0.85,Microsoft Presidio
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,LOCATION,0.85,Microsoft Presidio
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya,LOCATION,0.85,Microsoft Presidio
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,LOCATION,0.85,Microsoft Presidio

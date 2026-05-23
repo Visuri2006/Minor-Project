@@ -1,0 +1,51 @@
+Row_ID,Original_Key,Original_Value,Detected_Entity,Entity_Type,Confidence,Model
+4,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+4,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+5,timezone,Asia/Kolkata,Asia,LOC,0.9997,Hugging Face NER
+5,timezone,Asia/Kolkata,Kolkata,LOC,0.9992,Hugging Face NER
+6,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+6,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+7,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+7,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+8,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+8,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+9,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+9,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+9,country,US,US,LOC,0.9996,Hugging Face NER
+10,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+10,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+11,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+11,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+14,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+14,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+15,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+15,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+15,locale,en-US,US,LOC,0.9995,Hugging Face NER
+15,timezone,Asia/Kolkata,Asia,LOC,0.9997,Hugging Face NER
+15,timezone,Asia/Kolkata,Kolkata,LOC,0.9992,Hugging Face NER
+16,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+16,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+21,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+21,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+21,country,US,US,LOC,0.9996,Hugging Face NER
+23,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+23,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+24,country,IN,IN,LOC,0.9639,Hugging Face NER
+24,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+24,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+25,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+25,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+26,device_model,SM-J610FN,SM,MISC,0.9453,Hugging Face NER
+26,device_model,SM-J610FN,J,MISC,0.701,Hugging Face NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Ma,PER,0.8658,Hugging Face NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Azad National Institute of Technology,ORG,0.9243,Hugging Face NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",B,LOC,0.9991,Hugging Face NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",##hopal,LOC,0.9053,Hugging Face NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya Pradesh,LOC,0.9995,Hugging Face NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,LOC,0.9996,Hugging Face NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Ma,PER,0.8658,Hugging Face NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Azad National Institute of Technology,ORG,0.9243,Hugging Face NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",B,LOC,0.9991,Hugging Face NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",##hopal,LOC,0.9053,Hugging Face NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya Pradesh,LOC,0.9995,Hugging Face NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,LOC,0.9996,Hugging Face NER

@@ -1,0 +1,56 @@
+Row_ID,Original_Key,Original_Value,Detected_Entity,Entity_Type,Confidence,Model
+4,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+4,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+5,timezone,Asia/Kolkata, Asia/Kolkata,LOC,0.9796,RoBERTa Large NER
+6,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+7,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+7,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+8,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+9,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+9,hardware,qcom, qcom,ORG,0.9857,RoBERTa Large NER
+9,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+9,country,US, US,LOC,0.9999,RoBERTa Large NER
+10,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+11,email,mitmnewproject@gmail.com, mitmnew,ORG,0.7939,RoBERTa Large NER
+11,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+14,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+15,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+15,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+15,timezone,Asia/Kolkata, Asia/Kolkata,LOC,0.9796,RoBERTa Large NER
+16,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+16,city,bangalore, bangalore,LOC,0.8909,RoBERTa Large NER
+16,brand,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+16,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+21,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+21,hardware,qcom, qcom,ORG,0.9857,RoBERTa Large NER
+21,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+21,country,US, US,LOC,0.9999,RoBERTa Large NER
+23,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+24,city,bhopal, bhopal,LOC,0.9455,RoBERTa Large NER
+24,country,IN, IN,LOC,0.9891,RoBERTa Large NER
+24,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+24,manufacturer,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+25,city,bangalore, bangalore,LOC,0.8909,RoBERTa Large NER
+25,city,bhopal, bhopal,LOC,0.9455,RoBERTa Large NER
+25,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+25,brand,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+26,device_model,SM-J610FN, SM-J,MISC,0.882,RoBERTa Large NER
+26,brand,samsung, samsung,ORG,0.9927,RoBERTa Large NER
+26,screen_density,xhdpi, xhdpi,ORG,0.7462,RoBERTa Large NER
+28,city,bangalore, bangalore,LOC,0.8909,RoBERTa Large NER
+29,city,bhopal, bhopal,LOC,0.9455,RoBERTa Large NER
+30,city,bangalore, bangalore,LOC,0.8909,RoBERTa Large NER
+30,city,bhopal, bhopal,LOC,0.9455,RoBERTa Large NER
+31,city,bangalore, bangalore,LOC,0.8909,RoBERTa Large NER
+31,city,bhopal, bhopal,LOC,0.9455,RoBERTa Large NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", MANIT,LOC,0.7762,RoBERTa Large NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", Maulana Azad National Institute of Technology,ORG,0.9927,RoBERTa Large NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", Bhopal,LOC,0.9968,RoBERTa Large NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", Madhya Pradesh,LOC,0.998,RoBERTa Large NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", India,LOC,0.9999,RoBERTa Large NER
+32,city,bangalore, bangalore,LOC,0.8909,RoBERTa Large NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", MANIT,LOC,0.7762,RoBERTa Large NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", Maulana Azad National Institute of Technology,ORG,0.9927,RoBERTa Large NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", Bhopal,LOC,0.9968,RoBERTa Large NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", Madhya Pradesh,LOC,0.998,RoBERTa Large NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India", India,LOC,0.9999,RoBERTa Large NER

@@ -1,0 +1,47 @@
+Row_ID,Original_Key,Original_Value,Detected_Entity,Entity_Type,Model
+2,os_version,10,10,CARDINAL,Stanza NER
+4,os_version,29,29,CARDINAL,Stanza NER
+5,app_version,7.4.6,7.4.6,CARDINAL,Stanza NER
+5,timezone,Asia/Kolkata,Asia,LOC,Stanza NER
+5,timezone,Asia/Kolkata,Kolkata,GPE,Stanza NER
+7,os_version,10,10,CARDINAL,Stanza NER
+7,os_version,29,29,CARDINAL,Stanza NER
+7,screen_width,720,720,CARDINAL,Stanza NER
+7,screen_height,1396,1396,CARDINAL,Stanza NER
+9,country,US,US,GPE,Stanza NER
+9,app_version,7.4.6,7.4.6,CARDINAL,Stanza NER
+10,otp,8675,8675,CARDINAL,Stanza NER
+14,app_version,3.9.23,3.9.23,CARDINAL,Stanza NER
+14,os_version,10,10,CARDINAL,Stanza NER
+15,os_version,10,10,CARDINAL,Stanza NER
+15,screen_width,720,720,CARDINAL,Stanza NER
+15,screen_height,1396,1396,CARDINAL,Stanza NER
+15,locale,en-US,US,GPE,Stanza NER
+15,timezone,Asia/Kolkata,Asia,LOC,Stanza NER
+15,timezone,Asia/Kolkata,Kolkata,GPE,Stanza NER
+16,app_version,7.4.6,7.4.6,CARDINAL,Stanza NER
+16,os_version,10,10,CARDINAL,Stanza NER
+16,os_version,29,29,CARDINAL,Stanza NER
+21,country,US,US,GPE,Stanza NER
+24,os_version,29,29,CARDINAL,Stanza NER
+25,os_version,10,10,CARDINAL,Stanza NER
+26,screen_height,1396,1396,CARDINAL,Stanza NER
+26,screen_width,720,720,CARDINAL,Stanza NER
+26,app_version,7.4.6,7.4.6,CARDINAL,Stanza NER
+27,longitude,77.439222,77.439222,CARDINAL,Stanza NER
+27,latitude,23.22186,23.22186,CARDINAL,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",4/31,CARDINAL,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",MANIT,ORG,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORG,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,GPE,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya Pradesh,GPE,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",462003,DATE,Stanza NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,GPE,Stanza NER
+32,os_version,10,10,CARDINAL,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",4/31,CARDINAL,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",MANIT,ORG,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORG,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,GPE,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya Pradesh,GPE,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",462003,DATE,Stanza NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,GPE,Stanza NER
