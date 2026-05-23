@@ -1,0 +1,32 @@
+Row_ID,Original_Key,Original_Value,Detected_Entity,Entity_Type,Confidence,Model
+4,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+5,timezone,Asia/Kolkata,Asia,LOC,0.9983,Flair NER
+5,timezone,Asia/Kolkata,Kolkata,LOC,0.9988,Flair NER
+7,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+9,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+9,country,US,US,LOC,0.9676,Flair NER
+15,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+15,locale,en-US,en-US,LOC,0.7438,Flair NER
+15,timezone,Asia/Kolkata,Asia,LOC,0.9983,Flair NER
+15,timezone,Asia/Kolkata,Kolkata,LOC,0.9988,Flair NER
+16,city,bangalore,bangalore,LOC,0.8651,Flair NER
+16,brand,samsung,samsung,ORG,0.9962,Flair NER
+16,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+21,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+21,country,US,US,LOC,0.9676,Flair NER
+24,manufacturer,samsung,samsung,ORG,0.9962,Flair NER
+25,city,bangalore,bangalore,LOC,0.8651,Flair NER
+25,brand,samsung,samsung,ORG,0.9962,Flair NER
+26,brand,samsung,samsung,ORG,0.9962,Flair NER
+28,city,bangalore,bangalore,LOC,0.8651,Flair NER
+30,city,bangalore,bangalore,LOC,0.8651,Flair NER
+31,city,bangalore,bangalore,LOC,0.8651,Flair NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORG,0.8908,Flair NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,LOC,0.9912,Flair NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya Pradesh,LOC,0.9959,Flair NER
+31,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,LOC,0.9996,Flair NER
+32,city,bangalore,bangalore,LOC,0.8651,Flair NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Maulana Azad National Institute of Technology,ORG,0.8908,Flair NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Bhopal,LOC,0.9912,Flair NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",Madhya Pradesh,LOC,0.9959,Flair NER
+32,address,"4/31, MANIT, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh 462003, India",India,LOC,0.9996,Flair NER
